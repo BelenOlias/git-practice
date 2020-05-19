@@ -1,3 +1,4 @@
 Name: Belén
 Age: 24
 Fav color: Blue
+Fav food: Chocolate
